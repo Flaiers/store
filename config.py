@@ -1,4 +1,4 @@
-token = "1060173390:AAHc3OS0J6cKgkgAvq4xQzsQRAtmXUlE650"
+token = "token"
 
 #region gloal var
 usersmschatid = ''
